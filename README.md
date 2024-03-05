@@ -7,5 +7,6 @@
 - ⚡ Fun fact: I love Rocket League, Satisfactory and Cities Skyline.
 - Come and join my personal discord (Shhhh...This is a secret)
 
+![Kunjan's Codewars stats](https://www.codewars.com/users/Kunjan343/badges/large)
 
 [![Kunjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunjan343)](https://github.com/anuraghazra/github-readme-stats)
